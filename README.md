@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**Java18ij/java18ij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some facts:
+- 🔭 I’m currently working on Java ATM
+- 🌱 I’m currently learning Java Core, Java OOP
+- ⚡ Fun fact: I like to programming every day; I like to planing my day
+### Project:
+|Project name|Description|Technologies|
+|------------|-----------|------------|
+|Dandy tanks|I made my first game during studies|Java Core, Java OOP|
+### Contacts
+[<img align="left" width="22px" alt = "Mike Mazurkevich" | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/MikeMazurkevich)
