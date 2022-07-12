@@ -8,4 +8,4 @@
 |------------|-----------|------------|
 |Dandy tanks|I made my first game during studies|Java Core, Java OOP|
 ### Contacts
-[<img align="left" width="22px" alt = "Mike Mazurkevich" | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/MikeMazurkevich)
+[<img align="left" width="22px" alt="Mike Mazurkevich | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/MikeMazurkevich)
