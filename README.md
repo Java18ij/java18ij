@@ -6,6 +6,8 @@
 ### Project:
 |Project name|Description|Technologies|
 |------------|-----------|------------|
+|Calculator|Calculator|Java Core|
 |Dandy tanks|I made my first game during studies|Java Core, Java OOP|
+|ATM|ATM Machine|Java Core, Java OOP|
 ### Contacts
 [<img align="left" width="22px" alt="Mike Mazurkevich | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/MikeMazurkevich)
