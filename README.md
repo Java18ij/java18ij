@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### Some facts:
-- 🔭 I’m currently working on Java ATM
-- 🌱 I’m currently learning Java Core, Java OOP
+- 🌱 I’m currently learning Java
 - ⚡ Fun fact: I like to programming every day; I like to planing my day
 ### Project:
 |Project name|Description|Technologies|
